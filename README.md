@@ -1,2 +1,2 @@
-# Leahy-Center-IT-Admin-Intern
-Sys-Admin Intern Work, and demonstrating my understanding in this role with projects.
+# Tech Journal
+Documenting all projects and showing understanding of my implementations
